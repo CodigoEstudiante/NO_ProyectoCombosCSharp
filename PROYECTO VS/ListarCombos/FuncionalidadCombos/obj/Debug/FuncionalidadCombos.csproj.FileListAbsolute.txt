@@ -1,0 +1,10 @@
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\bin\Debug\FuncionalidadCombos.exe.config
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\bin\Debug\FuncionalidadCombos.exe
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\bin\Debug\FuncionalidadCombos.pdb
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.Form1.resources
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.exe
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.pdb
